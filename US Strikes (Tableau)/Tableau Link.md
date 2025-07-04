@@ -1,3 +1,3 @@
 ### 📊 Tableau Dashboard
 
-[Click here to view the live dashboard](https://public.tableau.com/app/profile/yourname/viz/your-dashboard-name)
+[Click here to view the live dashboard](https://public.tableau.com/views/USStrikes_17515757088820/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)

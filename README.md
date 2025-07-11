@@ -51,7 +51,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Identified Texas and Oklahoma as top strike zones  
 - Revealed westward geographic shift in lightning clusters  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.A%20Data%20Summary%20-%20U.S.%20Lightning%20Strikes.pdf) | [View Dashboard](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.B%20Tableau%20Visualization.md)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.A%20Data%20Summary%20-%20U.S.%20Lightning%20Strikes.pdf) | [View Dashboard](https://public.tableau.com/app/profile/michelle.aguiar/viz/USStrikes_17515757088820/Story1)
 
 ### Lightning Strike Metrics Dashboard  
 **Tools:** Tableau  
@@ -62,7 +62,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Highest individual point recorded: 2,211 strikes  
 - Added location click features for regional insights  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.A%20Data%20Summary%20-%20Lightning%20Strike%20Metrics%20Dashboard.pdf) | [View Dashboard](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.B%20Tableau%20Visualization.md)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.A%20Data%20Summary%20-%20Lightning%20Strike%20Metrics%20Dashboard.pdf) | [View Dashboard](https://public.tableau.com/app/profile/michelle.aguiar/viz/WhereLightningStrikesMostU_S_TrendsbyYear/Dashboard)
 
 ## Contact  
 📧 michellejaguiar@hotmail.com | 

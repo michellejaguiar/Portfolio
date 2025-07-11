@@ -38,7 +38,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Achieved 82.4% accuracy, but low recall (9%)  
 - Identified “professional drivers” as least likely to churn  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.A.%20Data%20Summary%20-%20Logistic%20Regression.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.B.%20Waze%20Churn%20Prediction%20Using%20Logistic%20Regression.ipynb)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.A.%20Data%20Summary%20-%20User%20Churn.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.B.%20Waze%20Churn%20Prediction%20Using%20Logistic%20Regression.ipynb)
 
 ## Lightning Strikes | Tableau
 

@@ -27,7 +27,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Discovered that churned users exhibit high-intensity, short-term usage  
 - iPhone vs Android users showed no churn difference  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.A.%20Data%20Summary%20-%20Statistics.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.B.%20Waze%20User%20Churn%20Data%20Analysis%20Project.ipynb)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.A.%20Data%20Summary%20-%20User%20Churn.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.B.%20Python%20Code%20-%20Exploratory%20Analysis.ipynb)
 
 ### Waze Churn Prediction – Logistic Regression  
 **Tools:** Python, scikit-learn, pandas, matplotlib  
@@ -38,7 +38,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Achieved 82.4% accuracy, but low recall (9%)  
 - Identified “professional drivers” as least likely to churn  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.A.%20Data%20Summary%20-%20User%20Churn.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.B.%20Python%20Code%20-%20Exploratory%20Analysis.ipynb)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.A.%20Data%20Summary%20-%20Churn%20Prediction.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.B.%20Python%20Code%20-%20Logistic%20Regression.ipynb)
 
 ## Lightning Strikes | Tableau
 
@@ -51,7 +51,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Identified Texas and Oklahoma as top strike zones  
 - Revealed westward geographic shift in lightning clusters  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.A%20Data%20Summary%20-%20Data%20Visualization.pdf) | [View Dashboard]([https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/2.B.%20Waze%20Churn%20Prediction%20Using%20Logistic%20Regression.ipynb](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.B%20Tableau%20Link.md))
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.A%20Data%20Summary%20-%20U.S.%20Lightning%20Strikes.pdf) | [View Dashboard](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/1.B%20Tableau%20Visualization.md)
 
 ### Lightning Strike Metrics Dashboard  
 **Tools:** Tableau  
@@ -62,7 +62,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Highest individual point recorded: 2,211 strikes  
 - Added location click features for regional insights  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.A%20Data%20Summary%20-%20Map%20Visualization.pdf) | [View Dashboard](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.B%20Tableau%20Link.md)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.A%20Data%20Summary%20-%20Lightning%20Strike%20Metrics%20Dashboard.pdf) | [View Dashboard](https://github.com/michellejaguiar/Portfolio/blob/main/US%20Strikes%20(Tableau)/2.B%20Tableau%20Visualization.md)
 
 ## Contact  
 📧 michellejaguiar@hotmail.com | 

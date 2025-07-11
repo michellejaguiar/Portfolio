@@ -13,7 +13,7 @@ Welcome to my analytics portfolio. This collection showcases end-to-end projects
 - Confirmed time zone robustness after UTC-to-Central adjustment  
 - California, New York, and Texas ranked highest for user activity  
 
-[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Dognition%20(SQL)/1.A%20Data%20Summary%20-%20Engagement%20Analysis.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Dognition%20(SQL)/1.B%20%20SQL%20Code%20-%20Engagement%20Analysis.ipynb)
+[View Data Summary](https://github.com/michellejaguiar/Portfolio/blob/main/Dognition%20(SQL)/1.A%20Data%20Summary%20-%20Engagement%20Analysis.pdf) | [View Code](https://github.com/michellejaguiar/Portfolio/blob/main/Waze%20Project%20(Phyton)/1.B.%20Python%20Code%20-%20Exploratory%20Analysis.ipynb.ipynb)
 
 
 ## Waze | Python
